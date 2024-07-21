@@ -1,6 +1,6 @@
-# Employee-Attrition-Analysis-Dashboard
+# Employee Attrition Analysis Dashboard
 
-![Dashboard Preview](https://github.com/user-attachments/assets/564002a2-52bb-4512-8403-a8ab9b0c5cf1)
+<iframe title="Employee Attrition Analysis Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDNmMmRjYzUtOWU5Yy00OWQ0LWFhYjItZTkxMzgxOTBiZWJjIiwidCI6IjI3ZjE2MzIxLTMzNzctNGI2Mi1iNjBjLWU5ZGEyMzg2NTVhNyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Project Overview
 XYZ company, established a few years ago, has been experiencing a 15% attrition rate over the past couple of years. This high attrition rate is significantly affecting the company. To understand the reasons behind employee departures and to help reduce the attrition rate, XYZ company has sought the help of an HR analytics consultancy. As an HR analyst, you have built a Power BI dashboard to provide data-driven insights.
