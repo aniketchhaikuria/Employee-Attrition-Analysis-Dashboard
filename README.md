@@ -1,9 +1,12 @@
 # Employee Attrition Analysis Dashboard
 
-<iframe title="Employee Attrition Analysis Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDNmMmRjYzUtOWU5Yy00OWQ0LWFhYjItZTkxMzgxOTBiZWJjIiwidCI6IjI3ZjE2MzIxLTMzNzctNGI2Mi1iNjBjLWU5ZGEyMzg2NTVhNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+![image](https://github.com/user-attachments/assets/5c7c87e6-b911-464e-bec8-cf661a91c040)
 
 ## Project Overview
 XYZ company, established a few years ago, has been experiencing a 15% attrition rate over the past couple of years. This high attrition rate is significantly affecting the company. To understand the reasons behind employee departures and to help reduce the attrition rate, XYZ company has sought the help of an HR analytics consultancy. As an HR analyst, you have built a Power BI dashboard to provide data-driven insights.
+
+## Interact with Dashboard
+[Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDNmMmRjYzUtOWU5Yy00OWQ0LWFhYjItZTkxMzgxOTBiZWJjIiwidCI6IjI3ZjE2MzIxLTMzNzctNGI2Mi1iNjBjLWU5ZGEyMzg2NTVhNyJ9)
 
 ## Goals
 - Analyze the factors contributing to employee attrition.
@@ -11,7 +14,8 @@ XYZ company, established a few years ago, has been experiencing a 15% attrition 
 - Create an interactive dashboard for easy exploration of the data.
 
 ## Tools and Technologies
-- **Data Source:** Attrition data provided by ![Unified Mentor](https://drive.google.com/file/d/1xZ98oGm8FDK8uTu8yqsVjc2PrfGt7B6z/view)
+- **Data Source:** Attrition data provided by Unified Mento.
+- **Dataset Link:** [View Google Drive File](https://drive.google.com/file/d/1xZ98oGm8FDK8uTu8yqsVjc2PrfGt7B6z/view)
 - **Tool:** Excel, Power BI
 - **Language:** DAX for creating measures
 
