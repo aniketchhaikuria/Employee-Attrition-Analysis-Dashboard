@@ -1,4 +1,4 @@
-# Employee Attrition Analysis Dashboard
+# Power BI: Employee Attrition Analysis Dashboard
 
 ![image](https://github.com/user-attachments/assets/5c7c87e6-b911-464e-bec8-cf661a91c040)
 
