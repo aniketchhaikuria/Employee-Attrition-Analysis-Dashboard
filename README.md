@@ -98,8 +98,10 @@ The analysis of employee attrition by years at the company shows the following a
 | Under 25        | 40               | 288         | 13.89%                |
 
 - The highest attrition rate is observed in the **"55 and above"** age group, with an attrition percentage of 24.38%.
-- The next highest attrition rate is in the **"blank"** age group with 20.59%.
-- The **"35-44"** age group also has a significant attrition rate of 17.44%.
+- The next highest attrition rate is in the "35-44" age group, with an attrition percentage of 17.44%.
+- The "45-54" age group follows with an attrition percentage of 14.05%.
+- The "25-34" age group has an attrition percentage of 15.05%.
+- The "Under 25" age group has the lowest attrition percentage of 13.89%.
 
 ### 5. Attrition by Salary Category
 
